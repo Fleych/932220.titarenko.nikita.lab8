@@ -1,0 +1,12 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.control_button {
+    display: block;
+}
+
+.line button {
+    width: 20px;
+}
